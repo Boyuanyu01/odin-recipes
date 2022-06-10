@@ -1,3 +1,3 @@
-# Web-development
-My web development repo
+# Odin-recipes
+My web page for recipes.
 Hello Odin!
